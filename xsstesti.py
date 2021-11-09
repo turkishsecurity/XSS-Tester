@@ -20,10 +20,3 @@ if payload in req.text:
 else: 
  print("Payload Başarısız.")
 
-
-
-
-
-
-
-
